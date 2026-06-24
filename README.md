@@ -64,6 +64,6 @@ A TENER EN CUENTA:
  -Arriba a la derecha verás las áreas de trabajo, pero no funcionan y aún no encuentro la forma de que lo haga. Si encuentras la forma ¡Estaría muy agradecido de que lo compartas!
 
 
- -Usaba gnome con el tema candy, por lo que si tienes GNOME en Fedora por defecto, puedes descargarte retoques, extensiones y gestor de extensiones más el tema "candy" para mejores resultados. Esto ayuda a que aplicaciones como Thunar tenga aplicado un tema neón/cyberpunk y ayude mucho más a la estética. Si no entiendes de lo que hanblo, puedes buscar en youtube sobre cómo añadir temas a gnome.
+ -Usaba gnome con el tema candy, por lo que si tienes GNOME en Fedora por defecto, puedes descargarte retoques, extensiones y gestor de extensiones más el tema "candy" para mejores resultados. Esto ayuda a que aplicaciones como Thunar tenga aplicado un tema neón/cyberpunk y ayude mucho más a la estética. Si no entiendes de lo que hablo, puedes buscar en youtube sobre cómo añadir temas a gnome.
 
 ¡Adiós!
